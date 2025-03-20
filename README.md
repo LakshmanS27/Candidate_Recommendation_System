@@ -22,11 +22,12 @@ The system supports both **PDF** and **DOCX** CV files, and the score is calcula
 
 ### 1.Clone the Repo
 
-git clone https://github.com/your-username/Resume_CV_Analyzer.git
-cd Resume_CV_Analyzer
+git clone https://github.com/LakshmanS27/Candidate_Recommendation_System.git
+cd Candidate_Recommendation_System
 
 ### 2.Create Virtual Environment (optional)
 
+```bash
 python -m venv venv
 .\venv\Scripts\activate  # Windows
 source venv/bin/activate # Mac/Linux
